@@ -1,0 +1,84 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#principal{
+    border: solid 1px green;
+    width: 500px;
+    height: 700px;
+}
+
+#encabezado{
+    
+    height: 75px;
+}
+
+#foto{
+    
+    height: 425px;
+}
+
+#pie{
+    
+    height: 192px;
+    margin-left: 15px;
+}
+
+#logo_html{
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+    margin-right: 10px;
+
+}
+
+#letras-titulo{
+    float:left;
+    margin-top:10px;
+    line-height : 4px;
+    width: 100px;
+}
+
+#div_puntos{
+     float:right;
+    
+    width: 100px;
+    height:70px;
+}
+
+#puntos{
+    margin-top: 15px;
+    margin-right: 10px;
+    float:right;
+
+}
+
+#camino{
+    
+    height: 425px;
+    width: 499px;
+}
+
+#iconos{
+    margin-top: 10px;
+    
+    height: 40px;
+    width: 470px;
+}
+
+#bookmark{
+    
+    float: right;
+}
+
+
+
+#pie1{
+    font-family: 'Raleway', sans-serif;
+}
+
+#pie2{
+    font-family: 'Raleway', sans-serif;
+}
